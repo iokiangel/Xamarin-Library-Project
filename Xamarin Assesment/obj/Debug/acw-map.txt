@@ -1,0 +1,4 @@
+Xamarin_Assesment.MainActivity, Xamarin Assesment;md54dbea7010ed36c5caaa8d537db86b004.MainActivity
+Xamarin_Assesment.MainActivity, Xamarin Assesment, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md54dbea7010ed36c5caaa8d537db86b004.MainActivity
+Xamarin_Assesment.MainActivity;md54dbea7010ed36c5caaa8d537db86b004.MainActivity
+xamarin_assesment.MainActivity;md54dbea7010ed36c5caaa8d537db86b004.MainActivity

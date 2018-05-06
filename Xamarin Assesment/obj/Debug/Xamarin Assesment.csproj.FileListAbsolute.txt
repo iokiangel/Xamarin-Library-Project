@@ -1,0 +1,50 @@
+C:\Users\Joshua\Documents\Visual Studio 2017\Projects\Xamarin Assesment\Xamarin Assesment\obj\Debug\Xamarin Assesment.csprojResolveAssemblyReference.cache
+C:\Users\Joshua\Documents\Visual Studio 2017\Projects\Xamarin Assesment\Xamarin Assesment\bin\Debug\Xamarin Assesment.dll.config
+C:\Users\Joshua\Documents\Visual Studio 2017\Projects\Xamarin Assesment\Xamarin Assesment\bin\Debug\Xamarin Assesment.dll
+C:\Users\Joshua\Documents\Visual Studio 2017\Projects\Xamarin Assesment\Xamarin Assesment\bin\Debug\Xamarin Assesment.pdb
+C:\Users\Joshua\Documents\Visual Studio 2017\Projects\Xamarin Assesment\Xamarin Assesment\bin\Debug\Xamarin_Assesment.Xamarin_Assesment.apk
+C:\Users\Joshua\Documents\Visual Studio 2017\Projects\Xamarin Assesment\Xamarin Assesment\bin\Debug\Xamarin_Assesment.Xamarin_Assesment-Signed.apk
+C:\Users\Joshua\Documents\Visual Studio 2017\Projects\Xamarin Assesment\Xamarin Assesment\bin\Debug\SQLite-net.dll
+C:\Users\Joshua\Documents\Visual Studio 2017\Projects\Xamarin Assesment\Xamarin Assesment\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\Joshua\Documents\Visual Studio 2017\Projects\Xamarin Assesment\Xamarin Assesment\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Joshua\Documents\Visual Studio 2017\Projects\Xamarin Assesment\Xamarin Assesment\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Joshua\Documents\Visual Studio 2017\Projects\Xamarin Assesment\Xamarin Assesment\bin\Debug\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\Joshua\Documents\Visual Studio 2017\Projects\Xamarin Assesment\Xamarin Assesment\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Joshua\Documents\Visual Studio 2017\Projects\Xamarin Assesment\Xamarin Assesment\bin\Debug\SQLite-net.pdb
+C:\Users\Joshua\Documents\Visual Studio 2017\Projects\Xamarin Assesment\Xamarin Assesment\bin\Debug\SQLite-net.xml
+C:\Users\Joshua\Documents\Visual Studio 2017\Projects\Xamarin Assesment\Xamarin Assesment\obj\Debug\Xamarin Assesment.csproj.CoreCompileInputs.cache
+C:\Users\Joshua\Documents\Visual Studio 2017\Projects\Xamarin Assesment\Xamarin Assesment\obj\Debug\Xamarin Assesment.csproj.CopyComplete
+C:\Users\Joshua\Documents\Visual Studio 2017\Projects\Xamarin Assesment\Xamarin Assesment\obj\Debug\Xamarin Assesment.dll
+C:\Users\Joshua\Documents\Visual Studio 2017\Projects\Xamarin Assesment\Xamarin Assesment\obj\Debug\Xamarin Assesment.pdb
+C:\Users\Joshua\Documents\Visual Studio 2017\Projects\Xamarin Assesment\Xamarin Assesment\obj\Debug\android\bin\Xamarin_Assesment.Xamarin_Assesment.apk
+C:\Users\Joshua\Documents\Visual Studio 2017\Projects\Xamarin Assesment\Xamarin Assesment\obj\Debug\res\layout\main.xml
+C:\Users\Joshua\Documents\Visual Studio 2017\Projects\Xamarin Assesment\Xamarin Assesment\obj\Debug\res\values\strings.xml
+C:\Users\Joshua\Documents\Visual Studio 2017\Projects\Xamarin Assesment\Xamarin Assesment\obj\Debug\R.cs.flag
+C:\Users\Joshua\Documents\Visual Studio 2017\Projects\Xamarin Assesment\Xamarin Assesment\obj\Debug\uploadflags.txt
+C:\Users\Joshua\Documents\Visual Studio 2017\Projects\Xamarin Assesment\Xamarin Assesment\bin\Debug\Mono.Android.pdb
+C:\Users\Joshua\Documents\Visual Studio 2017\Projects\Xamarin Assesment\Xamarin Assesment\bin\Debug\mscorlib.pdb
+C:\Users\Joshua\Documents\Visual Studio 2017\Projects\Xamarin Assesment\Xamarin Assesment\bin\Debug\System.Core.pdb
+C:\Users\Joshua\Documents\Visual Studio 2017\Projects\Xamarin Assesment\Xamarin Assesment\bin\Debug\System.pdb
+C:\Users\Joshua\Documents\Visual Studio 2017\Projects\Xamarin Assesment\Xamarin Assesment\bin\Debug\System.Xml.pdb
+C:\Users\Joshua\Documents\Visual Studio 2017\Projects\Xamarin Assesment\Xamarin Assesment\bin\Debug\System.Net.Http.pdb
+C:\Users\Joshua\Documents\Visual Studio 2017\Projects\Xamarin Assesment\Xamarin Assesment\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\Joshua\Documents\Visual Studio 2017\Projects\Xamarin Assesment\Xamarin Assesment\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\Joshua\Documents\Visual Studio 2017\Projects\Xamarin Assesment\Xamarin Assesment\bin\Debug\Mono.Security.pdb
+C:\Users\Joshua\Documents\Visual Studio 2017\Projects\Xamarin Assesment\Xamarin Assesment\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\Joshua\Documents\Visual Studio 2017\Projects\Xamarin Assesment\Xamarin Assesment\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\Joshua\Documents\Visual Studio 2017\Projects\Xamarin Assesment\Xamarin Assesment\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\Joshua\Documents\Visual Studio 2017\Projects\Xamarin Assesment\Xamarin Assesment\obj\Debug\linksrc\SQLite-net.pdb
+C:\Users\Joshua\Documents\Visual Studio 2017\Projects\Xamarin Assesment\Xamarin Assesment\obj\Debug\linksrc\System.Core.pdb
+C:\Users\Joshua\Documents\Visual Studio 2017\Projects\Xamarin Assesment\Xamarin Assesment\obj\Debug\linksrc\System.pdb
+C:\Users\Joshua\Documents\Visual Studio 2017\Projects\Xamarin Assesment\Xamarin Assesment\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\Joshua\Documents\Visual Studio 2017\Projects\Xamarin Assesment\Xamarin Assesment\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\Joshua\Documents\Visual Studio 2017\Projects\Xamarin Assesment\Xamarin Assesment\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\Joshua\Documents\Visual Studio 2017\Projects\Xamarin Assesment\Xamarin Assesment\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\Joshua\Documents\Visual Studio 2017\Projects\Xamarin Assesment\Xamarin Assesment\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\Joshua\Documents\Visual Studio 2017\Projects\Xamarin Assesment\Xamarin Assesment\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\Joshua\Documents\Visual Studio 2017\Projects\Xamarin Assesment\Xamarin Assesment\obj\Debug\linksrc\Xamarin Assesment.dll.mdb
+C:\Users\Joshua\Documents\Visual Studio 2017\Projects\Xamarin Assesment\Xamarin Assesment\bin\Debug\Xamarin Assesment.dll.mdb
+C:\Users\Joshua\Documents\Visual Studio 2017\Projects\Xamarin Assesment\Xamarin Assesment\obj\Debug\android\assets\Xamarin Assesment.dll.mdb
+C:\Users\Joshua\Documents\Visual Studio 2017\Projects\Xamarin Assesment\Xamarin Assesment\obj\Debug\android\assets\SQLite-net.pdb
+C:\Users\Joshua\Documents\Visual Studio 2017\Projects\Xamarin Assesment\Xamarin Assesment\bin\Debug\Xamarin Assesment.dll
+C:\Users\Joshua\Documents\Visual Studio 2017\Projects\Xamarin Assesment\Xamarin Assesment\obj\Debug\linksrc\Xamarin Assesment.dll.mdb
